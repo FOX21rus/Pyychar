@@ -1,3 +1,0 @@
-mutation crescoAdminUpsertPublication($input: CrescoPublicationInput){
-    crescoAdminUpsertPublication(input: $input)
-}

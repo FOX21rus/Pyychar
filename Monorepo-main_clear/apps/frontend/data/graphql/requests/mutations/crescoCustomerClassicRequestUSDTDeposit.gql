@@ -1,3 +1,0 @@
-mutation crescoCustomerClassicRequestUSDTDeposit($agreementNo: String!, $amount: Float!, $walletAddress: String!){
-    crescoCustomerClassicRequestUSDTDeposit(agreementNo: $agreementNo, amount: $amount, walletAddress: $walletAddress)
-}

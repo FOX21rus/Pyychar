@@ -1,3 +1,0 @@
-mutation crescoCustomerClassicRequestWithdrawal($agreementNo: String!){
-    crescoCustomerClassicRequestWithdrawal(agreementNo: $agreementNo)
-}

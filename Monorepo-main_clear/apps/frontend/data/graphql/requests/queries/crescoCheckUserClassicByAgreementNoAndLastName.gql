@@ -1,3 +1,0 @@
-query crescoCheckUserClassicByAgreementNoAndLastName($agreementNo: String!, $lastName: String!){
-    crescoCheckUserClassicByAgreementNoAndLastName(agreementNo: $agreementNo, lastName: $lastName)
-}

@@ -1,3 +1,0 @@
-mutation crescoAdminCreateNewPortfolioState($coinBalances: JSON!, $crescoTokensOverallAmount: Float!){
-    crescoAdminCreateNewPortfolioState(coinBalances: $coinBalances, crescoTokensOverallAmount: $crescoTokensOverallAmount)
-}

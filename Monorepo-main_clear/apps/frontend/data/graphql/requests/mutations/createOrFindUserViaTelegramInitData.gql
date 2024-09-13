@@ -1,3 +1,0 @@
-mutation createOrFindUserViaTelegramInitData($telegramInitData: String!){
-    createOrFindUserViaTelegramInitData(telegramInitData: $telegramInitData)
-}

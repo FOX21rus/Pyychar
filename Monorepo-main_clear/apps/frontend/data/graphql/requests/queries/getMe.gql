@@ -1,8 +1,0 @@
-query getMe($token: String){
-    getMe(token: $token){
-        displayName
-        email
-        rolesJWT
-        userUri
-    }
-}

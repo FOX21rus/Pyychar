@@ -1,3 +1,0 @@
-mutation crescoAdminSendNotification($input: CrescoNotificationInput, $isBroadcast: Boolean){
-    crescoAdminSendNotification(input: $input, isBroadcast: $isBroadcast)
-}
